@@ -1,0 +1,7 @@
+node_modules/
+dist/
+whisper/
+workspace/
+tools/
+config.json
+.launch.ps1
