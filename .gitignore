@@ -5,3 +5,4 @@ workspace/
 tools/
 config.json
 .launch.ps1
+start.bat
